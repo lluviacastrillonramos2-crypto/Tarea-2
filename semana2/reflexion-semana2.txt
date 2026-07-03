@@ -1,0 +1,8 @@
+Saber usar la terminal permite navegar rápidamente entre carpetas y ejecutar tareas sin depender de menús.
+Crear y organizar archivos desde la terminal agiliza el flujo de trabajo en proyectos.
+Un desarrollador puede automatizar comandos y repetir operaciones con menos errores.
+También es útil para administrar repositorios Git y ver el estado de los cambios.
+La terminal es esencial en entornos de desarrollo remotos y servidores.
+Comprender comandos básicos facilita trabajar en cualquier sistema operativo.
+Ayuda a estructurar proyectos con carpetas claras y archivos bien ubicados.
+Además, usar la terminal mejora la eficiencia y la autonomía en el trabajo diario.
